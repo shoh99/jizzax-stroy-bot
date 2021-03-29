@@ -71,9 +71,9 @@ def main():
                           port=int(PORT),
                           url_path=TOKEN)
 
-    updater.bot.setWebhook('https://safe-plains-00572.herokuapp.com/' + TOKEN)
+    updater.bot.setWebhook('https://git.heroku.com/jizzax-stroy-bot/' + TOKEN)
     updater.idle()
-
+https://git.heroku.com/jizzax-stroy-bot
 
 if __name__ == '__main__':
     main()
